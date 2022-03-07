@@ -1,7 +1,7 @@
 # Proof-of-Stake-PoS-Public-Blockchain-Project
 
 # Proof-of-Stake-PoS-Public-Blockchain
-In this project we implemented the "Domain-Specific Sentiment Lexicons Induced from Labeled Documents" (https://aclanthology.org/2020.coling-main.578/) and then performing some additional experiment.
+In this project we have implemented the "Proof-of-Stake-PoS-Public-Blockchain" (localhost:5001/blockchain , 5003) and then performing some additional experiment.
 
 Data
 Several data sources have been used to run experiments.
